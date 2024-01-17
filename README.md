@@ -1,13 +1,12 @@
 # Exploring-Published-Books-Dataset
 This repository holds exploratory data analysis using basic libraries on the dataset containing:
-S.No   Column             Dtype 
----  ------             ----- 
- 0.   Book               object
- 1.   Author(s)          object
- 2.   Original language  object
- 3.   First published    object
- 4.   Approximate sales  object
- 5.   Genre              object
+S.No   Column             
+ 0.   Book               
+ 1.   Author(s)          
+ 2.   Original language  
+ 3.   First published    
+ 4.   Approximate sales  
+ 5.   Genre              
  It has book records since 1788 till 2018 of various authors in various languages.
  The objective of the analysis was to determine:
  1. dataset details(for further analysis and visualization)
