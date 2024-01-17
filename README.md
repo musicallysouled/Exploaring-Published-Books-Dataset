@@ -1,6 +1,6 @@
 # Exploring-Published-Books-Dataset
 This repository holds exploratory data analysis using basic libraries on the dataset containing:
- #   Column             Dtype 
+S.No   Column             Dtype 
 ---  ------             ----- 
  0   Book               object
  1   Author(s)          object
